@@ -1,0 +1,18 @@
+l_max_ncdm = 6
+
+
+tol_ncdm = 4.e-08
+tol_ncdm_bg = 4.e-08 #(This one probably doesn't matter)
+tol_ncdm_synchronous = 4.e-08
+tol_ncdm_newtonian = 4.e-08
+
+
+
+#tol_ncdm = 2.e-04
+#tol_ncdm_bg = 2.e-04 #(This one probably doesn't matter)
+#tol_ncdm_synchronous = 2.e-04
+#tol_ncdm_newtonian = 2.e-04
+
+#a_ini_over_a_today_default = 1.e-16
+
+start_large_k_at_tau_h_over_tau_k = 0.7 #0.00007

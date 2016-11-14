@@ -1,0 +1,7 @@
+l_max_ncdm = 20
+
+tol_ncdm = 2.e-05
+tol_ncdm_bg = 2.e-05 #(This one probably doesn't matter)
+
+tol_ncdm_synchronous = 2.e-05
+tol_ncdm_newtonian = 2.e-05
